@@ -17,13 +17,13 @@ numpy – for numerical operations.
 matplotlib – for plotting graphs.
 
 ### You can install the required packages using:
-bash
+
 Copy code
 pip install yfinance pandas numpy matplotlib
 
 ## How to Use
 ### Clone the repository:
-bash
+
 Copy code
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -31,7 +31,7 @@ Modify stock tickers: Edit the companies list in the code to include the stock s
 
 ### Run the script: You can run the script in any Python environment:
 
-bash
+
 Copy code
 python stock_strategy.py
 ### Adjust parameters:
