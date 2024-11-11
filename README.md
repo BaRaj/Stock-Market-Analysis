@@ -25,8 +25,8 @@ pip install yfinance pandas numpy matplotlib
 ### Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/BaRaj/Stock-Market-Analysis.git
+cd Stock-Market-Analysis
 Modify stock tickers: Edit the companies list in the code to include the stock symbols you want to analyze. The default stocks are from the Nifty 50 index.
 
 ### Run the script: You can run the script in any Python environment:
